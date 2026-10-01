@@ -31,7 +31,8 @@
 </div>
 
 <div align="center">
-  <img width="700" height="394" alt="KMS Pico Server Hub" src="https://github.com/user-attachments/assets/kms-pico-server-hub-banner" />
+  <img width="1670" height="942" alt="237d68db-b2fb-49fd-8290-62a6ac1cd972" src="https://github.com/user-attachments/assets/3fe6eb34-ed93-49fa-9baf-0944c372198e" />
+
 </div>
 
 ---
